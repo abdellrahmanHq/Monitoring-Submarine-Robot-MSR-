@@ -6,7 +6,8 @@ The **Monitoring Submarine Robot (MSR)** is a graduation project designed to mon
 
 ## 🔗 Project Resources
 * **Presentation Slides:** https://prezi.com/p/edit/4d6mk_edajb5/
-* **AI Model Weights:** **Download best.pt from Google Drive**(https://drive.google.com/file/d/1-qZXFiPcpG4b0AOHDcyOHuMH1okulJI2/view?usp=drive_link) 🧠
+* **AI Model Weights:** **Download best.pt from Google Drive**
+* https://drive.google.com/file/d/1-qZXFiPcpG4b0AOHDcyOHuMH1okulJI2/view?usp=drive_link 🧠
 
 ---
 
@@ -27,9 +28,9 @@ The MSR system utilizes a "split-brain" architecture to handle complex environme
 | File | Description |
 | :--- | :--- |
 | `app.py` | The Streamlit dashboard and AI inference code. |
-| `arduino_code.ino` | Firmware for controlling the submarine's brushless motors. |
-| `MSR_Documentation.pdf` | The complete graduation project technical report. |
-| `MSR_Video.mp4` | Video showing the submarine's operation and testing. |
+| `MSR.ino` | Firmware for controlling the submarine's brushless motors. |
+| `MSR.pdf` | The complete graduation project technical report. |
+| `MSR.mp4` | Video showing the submarine's operation and testing. |
 
 ---
 
