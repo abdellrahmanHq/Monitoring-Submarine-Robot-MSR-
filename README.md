@@ -5,8 +5,8 @@ The **Monitoring Submarine Robot (MSR)** is a graduation project designed to mon
 ---
 
 ## 🔗 Project Resources
-* **Presentation Slides:** [https://prezi.com/p/edit/4d6mk_edajb5/]
-* **AI Model Weights:** [**Download best.pt from Google Drive**](https://drive.google.com/file/d/1-qZXFiPcpG4b0AOHDcyOHuMH1okulJI2/view?usp=drive_link) 🧠
+* **Presentation Slides:** https://prezi.com/p/edit/4d6mk_edajb5/
+* **AI Model Weights:** **Download best.pt from Google Drive**(https://drive.google.com/file/d/1-qZXFiPcpG4b0AOHDcyOHuMH1okulJI2/view?usp=drive_link) 🧠
 
 ---
 
